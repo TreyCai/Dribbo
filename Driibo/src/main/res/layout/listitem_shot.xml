@@ -80,6 +80,9 @@
         android:layout_toRightOf="@id/avatar"
         android:textColor="#3F83AA"
         android:layout_below="@id/title"
+        android:singleLine="true"
+        android:layout_toLeftOf="@id/time"
+        android:layout_marginRight="6dp"
         />
 
 
